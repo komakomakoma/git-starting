@@ -1,3 +1,3 @@
-First line of the text. This is main branch
+First line of the text. This was made on the feature branch. Let's merge!
 
 Second line of the text.
